@@ -1,5 +1,6 @@
 # JavaScript-Challenge
-Code used inthis task will create a dynamic table that filters data based on user's selection. 
+Code used in this task will create a dynamic table that filters data based on user's selection. 
+
 ### Part 1: Automatic Table and Date Search 
 
 * Created a basic HTML web page .
