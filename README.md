@@ -14,4 +14,9 @@ As one enteres a data, and filters, this is how output look like:
 
 ![resulted output](UFO-Level-1/static/images/filter1.png)
 
+Here's another filtering example:
+
+![resulted output](UFO-Level-1/static/images/filter2.png)
+
+
 
