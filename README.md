@@ -21,7 +21,7 @@ Here's another filtering example:
 
 ![resulted output](UFO-Level-1/static/images/filter2.png)
 
-#### Things I could do better:
+### Features I could do better:
 If I had to recreate this assignment, I would add a button called "Original Table" that will be used to get full table data after filtering.
 
 
