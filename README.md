@@ -9,3 +9,9 @@ Code used inthis task will create a dynamic table that filters data based on use
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 * Here's how the output html looks like with one filtering option:
 ![resulted output](UFO-Level-1/static/images/output.png)
+
+As one enteres a data, and filters, this is how output look like:
+
+![resulted output](UFO-Level-1/static/images/filter1.png)
+
+
