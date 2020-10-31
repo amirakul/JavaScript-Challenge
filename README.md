@@ -7,6 +7,9 @@ Code used inthis task will create a dynamic table that filters data based on use
 * Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
+
+* Another thing to emphasize is that, the data contains entries upto 1/13/2010. It is good to know before doing filters on the data.
+
 * Here's how the output html looks like with one filtering option:
 ![resulted output](UFO-Level-1/static/images/output.png)
 
